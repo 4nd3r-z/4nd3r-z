@@ -1,6 +1,7 @@
 ul li {
 display: inline-block;
 margin: 0 150;
+    font-size: 2.2rem
 }
 ul li a {
 text-decoration: none;
