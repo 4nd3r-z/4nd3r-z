@@ -4,51 +4,51 @@ margin: 0 120px;
 }
 ul li a {
 text-decoration: none;
-font-size: 2.2em;
+font-size: 2.2rem;
 }
 body h2{
     margin: 0 260px;
-    font-size: 1.7em;
+    font-size: 1.7rem;
 }
 video{ 
-    margin: 0 150;
+    margin: 0 150px;
 }
 
 .sec-1{
 display: inline-block;
-margin: 0 -5;
+margin: 0 -5px;
 }
 
 .gatomiau{
     display: inline-block;
-    margin: 0 70;
+    margin: 0 70px;
 
 }
 
 .gatoflor {
-margin: 0 240;
+margin: 0 240px;
 }
 
 .Parrafo2 {
 text-align: left;
-margin: 0 -230;
-font-size: 1;
+margin: 0 -230px;
+font-size: 1rem;
 }
 
 .Dale {
-    margin: 0 -40;
+    margin: 0 -40px;
 }
 
 .Osito1 {
-    width: 320;
-    margin: 0 20;
+    width: 320px;
+    margin: 0 20px;
 }
 
 .Dalesi {
-    margin: 0 50;
+    margin: 0 50px;
 }
 
 .Texto{ 
-    font-size: 1.2;
-    margin: 0 250;
+    font-size: 1.2rem;
+    margin: 0 250px;
 }
