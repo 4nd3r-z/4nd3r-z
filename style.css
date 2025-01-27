@@ -1,13 +1,13 @@
 ul li {
 display: inline-block;
-margin: 0 120px;
+margin: 0 120rem;
 }
 ul li a {
 text-decoration: none;
 font-size: 2.2rem;
 }
 body h2{
-    margin: 0 260px;
+    margin: 0 260rem;
     font-size: 1.7rem;
 }
 video{ 
