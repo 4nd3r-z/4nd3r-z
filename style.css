@@ -1,9 +1,9 @@
-ul li {
+.ul li {
 display: inline-block;
 margin: 0 200rem;
     font-size: 7.2rem;
 }
-ul li a {
+.ul li a {
 text-decoration: none;
 font-size: 6.0rem;
 }
